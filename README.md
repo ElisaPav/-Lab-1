@@ -1,5 +1,6 @@
 # Лабораторная работа №1
 лаба1 змейка через streamlit
+
 import turtle
 
 def perform_switch_case(state, t, turn):
